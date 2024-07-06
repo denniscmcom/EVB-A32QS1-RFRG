@@ -51,6 +51,22 @@ CrossRefFollowFromMainSettings=1
 PrefsVaultGUID=
 PrefsRevisionGUID=
 
+[Parameter1]
+Name=Title
+Value=EVB-A32QS1-RFRG
+
+[Parameter2]
+Name=Revision
+Value=0.1
+
+[Parameter3]
+Name=DrawnBy
+Value=Dennis C. M.
+
+[Parameter4]
+Name=CompanyName
+Value=Dennis Micro Computers
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
