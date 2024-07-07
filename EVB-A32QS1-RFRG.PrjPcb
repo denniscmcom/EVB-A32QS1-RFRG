@@ -51,21 +51,38 @@ CrossRefFollowFromMainSettings=1
 PrefsVaultGUID=
 PrefsRevisionGUID=
 
+[Document1]
+DocumentPath=1_EVB_A32QS1_RFRG_Schematic.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EWOCBVKU
+
 [Parameter1]
-Name=Title
-Value=EVB-A32QS1-RFRG
+Name=CompanyName
+Value=Dennis Micro Computers
 
 [Parameter2]
-Name=Revision
-Value=0.1
-
-[Parameter3]
 Name=DrawnBy
 Value=Dennis C. M.
 
+[Parameter3]
+Name=Revision
+Value=0.1
+
 [Parameter4]
-Name=CompanyName
-Value=Dennis Micro Computers
+Name=Title
+Value=EVB-A32QS1-RFRG
 
 [Configuration1]
 Name=Sources
