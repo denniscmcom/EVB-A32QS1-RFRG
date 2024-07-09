@@ -68,21 +68,55 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EWOCBVKU
 
+[Document2]
+DocumentPath=EVB-A32QS1-RFRG_BOM.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document3]
+DocumentPath=EVB-A32QS1_RFRG_PCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XRBNIUXQ
+
 [Parameter1]
-Name=CompanyName
-Value=Dennis Micro Computers
+Name=Title
+Value=EVB-A32QS1-RFRG
 
 [Parameter2]
-Name=DrawnBy
-Value=Dennis C. M.
-
-[Parameter3]
 Name=Revision
 Value=0.1
 
+[Parameter3]
+Name=DrawnBy
+Value=Dennis C. M.
+
 [Parameter4]
-Name=Title
-Value=EVB-A32QS1-RFRG
+Name=CompanyName
+Value=Dennis Micro Computers
 
 [Configuration1]
 Name=Sources
@@ -958,15 +992,15 @@ Type153=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
-L2=NNWNNNNWWWNWNWNWN
-L3=NWEENEEEENEWNEEWN
+L2=NNNNNNNWNNNWNWNWN
+L3=NNEENEEEENEWNEEWN
 L4=NNENNNWEENNWNENWN
 L5=NNNNNNNNNNNNNNNNN
 L6=NNENNNNEENNWNENWN
 L7=NNEWNNWEENNWNENWN
 L8=NWEENEENEEENNEENN
-L9=NWEENEEEENEWNEEWW
-L10=NWNNNNNENNEWNNEWN
+L9=NNEENEEEENEWNEEWW
+L10=NNNNNNNENNEWNNEWN
 L11=NNENNNNEEENWNENWN
 L12=WWWWNWWNWWWNWWWNN
 L13=NNNNNNNNNNNWNNNWW
