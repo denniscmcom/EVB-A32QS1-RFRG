@@ -103,20 +103,20 @@ GenerateClassCluster=0
 DocumentUniqueId=XRBNIUXQ
 
 [Parameter1]
-Name=Title
-Value=EVB-A32QS1-RFRG
+Name=CompanyName
+Value=Dennis Micro Computers
 
 [Parameter2]
-Name=Revision
-Value=0.1
-
-[Parameter3]
 Name=DrawnBy
 Value=Dennis C. M.
 
+[Parameter3]
+Name=Revision
+Value=0.1
+
 [Parameter4]
-Name=CompanyName
-Value=Dennis Micro Computers
+Name=Title
+Value=EVB-A32QS1-RFRG
 
 [Configuration1]
 Name=Sources
